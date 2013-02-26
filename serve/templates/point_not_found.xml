@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Gather timeout="30">
+    <Say voice="woman">
+      Sorry, that point number was not found.
+      Try entering another number and then pressing the pound sign.
+    </Say>
+  </Gather>
+</Response>

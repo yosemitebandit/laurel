@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Gather timeout="30">
+    <Say voice="woman">
+      Hello, welcome to the Laurel District walking tour.
+      Please enter the point number followed by the pound symbol.
+    </Say>
+  </Gather>
+</Response>

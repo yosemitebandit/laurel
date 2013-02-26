@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Play>
+    {{ mp3 }}
+  </Play>
+
+  <Gather timeout="30">
+    <Say voice="woman">
+      Please enter another point number followed by the pound symbol.
+      Or you may hang up.
+    </Say>
+  </Gather>
+</Response>
