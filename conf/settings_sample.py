@@ -13,6 +13,6 @@ TWILIO = {
 }
 
 POINTS = {
-    1: 'https://s3.amazonaws.com/example/diner.mp3'
-    , 2: 'https://s3.amazonaws.com/example/theater.mp3'
+    '1': 'https://s3.amazonaws.com/example/diner.mp3'
+    , '2': 'https://s3.amazonaws.com/example/theater.mp3'
 }
