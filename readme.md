@@ -1,3 +1,3 @@
 demo of an audio walking tour
 
-call (xxx) xxx-xxxx and follow the directions to demo
+to try it out, call (xxx) xxx-xxxx and press 1#
